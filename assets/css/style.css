@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero { /* image: 4 hip people in meeting*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -69,12 +69,32 @@ p {
     margin-left: 25px;
 }
 
+/* Overview of products*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+.product {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.product img {
+    max-height: 200px;
+}
+
+.product h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* sidebar listing benefits of using Horiseon*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -100,24 +120,6 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.product {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.product img {
-    max-height: 200px;
-}
-
-.product h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
