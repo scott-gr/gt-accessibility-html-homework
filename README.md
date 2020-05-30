@@ -1,21 +1,32 @@
 # Horiseon Digital Marketing
 
-Foobar is a Python library for dealing with word pluralization.
+## Description
+This serves as a home page for a Horiseon, showcasing the products and benefits of hiring Horiseon for digital marketing.
+
+## Contents
+- Assets folder containing:
+  - CSS stylesheet
+  - images folder
+    - icons
+    - product related images
+  - index.html
+  - README.md
 
 ## Usage
+Page includes nav bar in header with links to product descriptions in main section. Sidebar outlines benefits of Horiseon's products.
 
-```python
-import foobar
+![screenshot top](https://i.postimg.cc/4m1nHjJd/horiseon-screenshot-1.png "Optional title")
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+![screenshot top](https://i.postimg.cc/Yh7h9tBZ/horiseon-screenshot-2.png "Optional title")
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
+
+
+
+
+## Credit
+Thank you to the 2020 GT Full Stack Bootcamp cohort for your resources and brainstorming.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
